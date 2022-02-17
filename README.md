@@ -1,7 +1,15 @@
 lost-ark-server-status
 =================
 
->`A CLI tool to check server status for Lost Ark game`
+># A CLI tool to check server status for Lost Ark game
+
+requires [nodejs](https://nodejs.org/) to install and run the tool 
+
+## install 
+```
+ npm install -g lost-ark-server-status
+```
+
 
 <!-- toc -->
 * [Usage](#usage)
