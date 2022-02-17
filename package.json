@@ -54,13 +54,7 @@
     "plugins": [
       "@oclif/plugin-help",
       "@oclif/plugin-plugins"
-    ],
-    "topicSeparator": " ",
-    "topics": {
-      "hello": {
-        "description": "Say hello to the world and others"
-      }
-    }
+    ]
   },
   "scripts": {
     "build": "shx rm -rf dist && tsc -b",
