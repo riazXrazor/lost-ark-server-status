@@ -19,7 +19,7 @@ export default class Check extends Command {
     all: Flags.boolean({ char: 'a', description: 'Display status for all regions' }),
   }
 
-  static args = [{ name: 'file' }]
+  static args = []
 
   private setColor(status: string): string {
     switch (status) {
