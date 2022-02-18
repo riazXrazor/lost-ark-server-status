@@ -9,7 +9,11 @@ requires [nodejs](https://nodejs.org/) to install and run the tool
 ```
  npm install -g lost-ark-server-status
 ```
+# basic usage
+![usage-1](https://github.com/riazXrazor/lost-ark-server-status/raw/master/media/lass-1.gif)
 
+# use that will auto refresh after every 1 sec
+![usage-2](https://github.com/riazXrazor/lost-ark-server-status/raw/master/media/lass-2.gif)
 
 <!-- toc -->
 * [Usage](#usage)
