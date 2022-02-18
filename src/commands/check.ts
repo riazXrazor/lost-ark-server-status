@@ -29,7 +29,7 @@ export default class Check extends Command {
   private setColor(status: string): string {
     switch (status) {
       case "full":
-        return colors.blue(status);
+        return colors.red(status);
 
       case "good":
         return colors.green(status);
